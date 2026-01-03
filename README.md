@@ -1,1 +1,1 @@
-# go-template
+# i18n
